@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\bin\Debug\netcoreapp3.1\MVC_Countries.exe
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\bin\Debug\netcoreapp3.1\MVC_Countries.deps.json
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\bin\Debug\netcoreapp3.1\MVC_Countries.runtimeconfig.json
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\bin\Debug\netcoreapp3.1\MVC_Countries.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\bin\Debug\netcoreapp3.1\MVC_Countries.dll
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\bin\Debug\netcoreapp3.1\MVC_Countries.pdb
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\obj\Debug\netcoreapp3.1\MVC_Countries.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\obj\Debug\netcoreapp3.1\MVC_Countries.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\obj\Debug\netcoreapp3.1\MVC_Countries.AssemblyInfo.cs
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\obj\Debug\netcoreapp3.1\MVC_Countries.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\obj\Debug\netcoreapp3.1\MVC_Countries.dll
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\obj\Debug\netcoreapp3.1\MVC_Countries.pdb
+C:\Users\Josh\source\repos\MVC_Countries\MVC_Countries\obj\Debug\netcoreapp3.1\MVC_Countries.genruntimeconfig.cache
